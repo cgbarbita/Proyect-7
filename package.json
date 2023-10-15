@@ -1,0 +1,23 @@
+{
+  "name": "server-example",
+  "version": "1.0.0",
+  "description": "server-example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgbarbita/Proyect-7.git"
+  },
+  "author": "copia de tutorial Fazt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgbarbita/Proyect-7/issues"
+  },
+  "homepage": "https://github.com/cgbarbita/Proyect-7#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
